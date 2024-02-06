@@ -1,0 +1,145 @@
+<!--pages/Search.wxml-->
+<!-- <text>pages/Search.wxml</text> -->
+<view class="search-p"> 
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">求是楼南侧</text>
+    <view class="sttus-f" style=" background-color: {{Signal[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signal[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signal[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signal[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signal[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signal[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signal[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signal[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signal[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signal[9]}}">10</view>
+    </view>
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">硕博二北侧左</text>
+    <view class="sttus-f" style=" background-color: {{Signalp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalp[9]}}">10</view>
+    </view>
+    
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">硕博二北侧右</text>
+    <view class="sttus-f" style=" background-color: {{Signalpp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalpp[9]}}">10</view>
+    </view>
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">理工绿化库房东</text>
+    <view class="sttus-f" style=" background-color: {{Signalppp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalppp[9]}}">10</view>
+    </view>
+
+
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">宇航大楼东侧实验室北面墙</text>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppp[9]}}">10</view>
+    </view>
+
+
+
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">硕博一东南侧围栏</text>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalpppppp[9]}}">10</view>
+    </view>
+
+
+
+
+
+
+    <!--  -->
+  <view class="box-f">
+    <text class="place-f">研究生教学楼北侧</text>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppp[9]}}">10</view>
+    </view>
+
+
+
+
+
+
+
+
+    <!-- -->
+  <view class="box-f">
+    <text class="place-f">15号公寓楼西侧(科技园对面)</text>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[0]}}">1</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[1]}}">2</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[2]}}">3</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[3]}}">4</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[4]}}">5</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[5]}}">6</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[6]}}">7</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[7]}}">8</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[8]}}">9</view>
+    <view class="sttus-f" style=" background-color: {{Signalppppppppp[9]}}">10</view>
+    </view>
+
+</view>
+
+
+

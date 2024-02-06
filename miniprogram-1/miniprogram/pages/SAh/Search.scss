@@ -1,0 +1,45 @@
+/* pages/Search.wxss */
+.search-p {
+  flex-direction: column;
+  display: flex;
+  width: 100%;
+  height: 1250rpx;
+  // border: 3rpx solid #faca82;
+  // border-radius: 10rpx;
+  justify-content: center;
+  align-items: center;
+}
+
+.place-f {
+  position: absolute;
+  font-size: 18px;
+  background: white;
+  margin: -57px 239rpx 0 10px;
+  padding: 0 5px;
+  color: rgb(136, 141, 170);
+}
+
+.box-f {
+  display: flex;
+  width: 95%;
+  height: 50px;
+  margin: 7.5px;
+  border: 3rpx solid #faca82;
+  border-radius: 10rpx;
+  justify-content: center;
+  align-items: center;
+}
+
+.sttus-f {
+  display: flex;
+  width: 52rpx;
+  height: 52rpx;
+  margin: 10.5rpx;
+  border: 2rpx solid #faca82;
+  border-radius: 52rpx;
+  color: #2f1742;
+  // color: crimson;
+  
+  justify-content: center;
+  align-items: center;
+}
